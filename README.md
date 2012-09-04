@@ -1,7 +1,7 @@
 BitStream
 =========
 
-Bit stream codec implementation. Written in AS3. 
+Bit stream codec implementation in ActionScript3 (BitStream.as is the codec).
 Faciliates creation of binary string that consist of arbitrary-length items in bits.
 
 - Can be used in variety of home-made binary codecs.
