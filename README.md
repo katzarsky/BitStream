@@ -2,7 +2,7 @@ BitStream
 =========
 
 Bit stream codec implementation. Written in AS3. 
-Faciliates creation of binary string that consist of arbitrary long items in bits.
+Faciliates creation of binary string that consist of arbitrary-length items in bits.
 
 - Can be used in variety of binary codecs.
 - Can be used with Base64 codec to send the encoded binary string over JSON, HTTP or other non-binary transport.
