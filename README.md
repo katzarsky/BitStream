@@ -1,7 +1,8 @@
 BitStream
 =========
 
-==About
+About
+---------
 Bit stream codec implementation in ActionScript3 (BitStream.as is the codec).
 Faciliates creation of binary string that consist of arbitrary-length items in bits.
 
@@ -14,6 +15,6 @@ Features:
 - saveByteArray - aligns to 32bit word. Pads with zeroes.
 - loadByteArray
 
-==License
-
+License
+---------
 MIT, see LICENSE file.
