@@ -1,7 +1,7 @@
 ﻿// Bitstream, v1.00 2012-09-05
 //
 // Description: Bit stream codec implementation in ActionScript3
-// Homepage: http://katzarsky.github.com/BitStream
+// Homepage: https://github.com/katzarsky/BitStream
 // Author: katzarsky@gmail.com
 
 package
