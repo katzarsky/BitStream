@@ -1,4 +1,10 @@
-﻿package
+﻿// Bitstream, v1.00 2012-09-05
+//
+// Description: Bit stream codec implementation in ActionScript3
+// Homepage: http://katzarsky.github.com/BitStream
+// Author: katzarsky@gmail.com
+
+package
 {
 	import flash.utils.ByteArray;
 	
