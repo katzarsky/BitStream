@@ -4,7 +4,8 @@ BitStream
 About
 ---------
 Bit stream codec implementation in ActionScript3 (BitStream.as is the codec).
-Faciliates creation of binary string that consist of arbitrary-length items in bits.
+Faciliates creation of a binary string that consist of arbitrary-bit-length items.
+(De)Serializes into ByteArray.
 
 - Can be used in variety of home-made binary codecs.
 - Can be used with Base64 codec to send the encoded binary string over JSON, HTTP or other non-binary transport.
