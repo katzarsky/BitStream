@@ -16,6 +16,10 @@ Features:
 - saveByteArray - aligns to 32bit word. Pads with zeroes.
 - loadByteArray
 
+TODO
+---------
+- writeSignedBits(-30, 6) - one bit (leftmost) for the sign(negative=1, positive=0), then encodes the number in N-1 bits
+
 License
 ---------
 MIT, see LICENSE file.
